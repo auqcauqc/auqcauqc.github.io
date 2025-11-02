@@ -1,16 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4");
-
 body {
     margin: 5em 20em 0 20em;
-    font-family: "Source Serif 4";
+    font-family: sans-serif;
 }
 
-h1 {
-    font-weight: normal;
-}
-
-h2 {
-    font-weight: normal;
+h1, h2 {
+    font-family: serif;
 }
 
 img {
