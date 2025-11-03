@@ -1,20 +1,15 @@
 body {
-    margin: 5em 20em 0 20em;
-    font-family: sans-serif;
+    margin: 5em 15em 0 15em;
+    font-size: 1.2em;
 }
 
 h1, h2 {
     margin-top: 1.5em;
-    font-family: serif;
     font-weight: normal;
 }
 
 img {
     width: 100%;
-}
-
-figcaption {
-    margin-top: .5em;
 }
 
 .break {
