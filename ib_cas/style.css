@@ -4,7 +4,9 @@ body {
 }
 
 h1, h2 {
+    margin-top: 1.5em;
     font-family: serif;
+    font-weight: normal;
 }
 
 img {
@@ -12,7 +14,7 @@ img {
 }
 
 figcaption {
-    margin-top: 0.5em;
+    margin-top: .5em;
 }
 
 .break {
